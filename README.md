@@ -1,4 +1,4 @@
-# The Idea
+# TailwindCSS-LuxSpace
 
-Basic boilerplate to get started slicing so you don't need to think about configuration.
+Repository ini menggunakan metode Design Handoff untuk menerapkan design dari figma kemudian dilakukan convert/slicing ke HTML dan menggunakan salah satu framework css yaitu Talwind CSS versi terbaru.
 
